@@ -60,7 +60,8 @@ Elaboramos nuestro circuito mediante la plataforma Tinkercad y físico para cual
 ## 7.BIBLIOGRAFIA
 Superposición (artículo). (n.d.). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
 
-‌Teorema de superposición. (n.d.). Innovacionumh.es. https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+‌Teorema de superposición. (n.d.). Innovacionumh.es. https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.html
+
 
 ‌
 

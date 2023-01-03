@@ -30,9 +30,21 @@ Elaboramos nuestro circuito mediante la plataforma Tinkercad y físico para cual
 [![Captura-de-pantalla-2023-01-02-191412.png](https://i.postimg.cc/FRLRddgG/Captura-de-pantalla-2023-01-02-191412.png)](https://postimg.cc/DJ7FRzNb)
 [![Captura-de-pantalla-2023-01-02-191800.png](https://i.postimg.cc/qqJPfWRn/Captura-de-pantalla-2023-01-02-191800.png)](https://postimg.cc/r0Hnxn5F)
 
+### 4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetandotanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+[![medicion-total.png](https://i.postimg.cc/jd17MFRk/medicion-total.png)](https://postimg.cc/zVnvBpbn)
 
+### 4.5.3. Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+[![parte-1.png](https://i.postimg.cc/XJZMkqLP/parte-1.png)](https://postimg.cc/Q9rnXXRg)
+[![CERO-3V.png](https://i.postimg.cc/449kKKm7/CERO-3V.png)](https://postimg.cc/nMpwghKp)
 
+### 4.5.4. Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
+[![Parte-2-11.png](https://i.postimg.cc/1XHKgc61/Parte-2-11.png)](https://postimg.cc/7J5zdzmK)
+[![Parte-2-22.png](https://i.postimg.cc/ZKwc4H4r/Parte-2-22.png)](https://postimg.cc/QHW5qpBt)
+[![Parte-2-3.png](https://i.postimg.cc/SKM7Lp8r/Parte-2-3.png)](https://postimg.cc/mcTHRJmz)
+[![cero-10V.png](https://i.postimg.cc/wM0hxx86/cero-10V.png)](https://postimg.cc/V00SD8kT)
 
+## 4. RESULTADOS Y CALCULO DE ERROR
+[![resultados.png](https://i.postimg.cc/NG2np5q6/resultados.png)](https://postimg.cc/7bDXLPLh)
 
 ## 5.VIDEO
 
